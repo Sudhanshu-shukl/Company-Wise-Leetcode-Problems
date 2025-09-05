@@ -1,6 +1,7 @@
-# 🔥 Company Wise Leetcode Problems 🔥
-
-This repo is for real G's tryna grind LeetCode like a boss. Got all the top companies' interview problems sorted out so you can practice smart, not hard. 💯
+# Giving back to the Community 
+SUDHANSHU SHUKLA - [Sudhanshu-shukl](https://github.com/Sudhanshu-shukl)
+# Company Wise Leetcode Problems 
+This repo is for real G's tryna grind LeetCode like a boss. Got all the top companies' interview problems sorted out so you can practice smart, not hard. 
 
 ## 📁 Companies Covered
 
@@ -52,3 +53,8 @@ This repo is for real G's tryna grind LeetCode like a boss. Got all the top comp
 ## 🤝 Contributing
 
 Wanna add more problems or companies? Drop a PR. Let's build this together. 👑
+Gotcha, fam. Just swap out that placeholder with your ID. It'll look clean AF.
+
+## 👨‍💻 Author
+
+- **Sudhanshu Shukla** - [@Sudhanshu-shukl](https://github.com/Sudhanshu-shukl)
